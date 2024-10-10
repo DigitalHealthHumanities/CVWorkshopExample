@@ -26,13 +26,6 @@ main:
     title: Digital Health Humanities Program Coordinator # for type.employment.
     institution: University of California San Franscisco
     years: April 2024 - Present
-    
-  - type: job # types include "education" for degree paths, "job" for past positions. 
-	title: Instructor of Record # for type.employment
-	institution: Indiana University
-	department: The Media School; The Student Academic Center
-	date: Spring 2020 - Spring 2024
-	notes: "Classes Taught - Technology and Culture; Film Editing; Cinematography for 16mm film; Connection Engagement and the College Experience; Unlocking Your Creativity"
 	
   - type: job # types include "education" for degree paths, "job" for past positions. 
 	title: Senior Digital Methods Specialist # for type.employment.
