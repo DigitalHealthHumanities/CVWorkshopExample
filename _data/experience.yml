@@ -5,7 +5,7 @@ main:
     institution: Indiana University
     department: The Media School
     advisors: Stephanie DeBoer, Joan Hawkins, Rachel Plotnick, Kalani Craig & Bret Rothstein # for type.education.
-    thesis: "<i>The Tuberculosis Specimen: The Dying Body and its Use in the War on the 'Great White Plague'" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    thesis: "<i>The Tuberculosis Specimen: The Dying Body and its Use in the War on the 'Great White Plague'</i>" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2017 - Present
     notes: In Progress
     
@@ -28,7 +28,7 @@ main:
     years: April 2024 - Present
     
   - type: job # types include "education" for degree paths, "job" for past positions. 
-	title: Instructor of Record # for type.employment.
+	title: Instructor of Record # for type.employment
 	institution: Indiana University
 	department: The Media School; The Student Academic Center
 	date: Spring 2020 - Spring 2024
