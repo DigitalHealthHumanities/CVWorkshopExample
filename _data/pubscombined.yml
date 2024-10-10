@@ -1,21 +1,155 @@
 main: # You can enter in your items in a long list in this form. A few notes: they will not automatically be listed by time, so you will need to order it manually, with most recent at the top and least recent at the bottom.
 
   - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
-    title: "A Journal Publication"
-    authors: John Doe # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
-    pub_abbr: Pub # for type:essay
-    publication: Publication # for type:essay
-    date: 2024
-    doi: https://digitalhealthhumanities.github.io/CVWorkshop/ # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
-    image: ./assets/img/teaser_example_2.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
+    title: "Rendering in Analog Games: Dissected Puzzles and Georgian Death Cultures"
+    authors: Sean Purcell # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    pub_abbr: Game Studies # for type:essay
+    publication: Game Studies # for type:essay
+    date: 2023
+    doi: https://gamestudies.org/2301/articles/purcell # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    image: ./assets/img/333_Fig2_Europe_Divided_Into_its_Kingdoms.jpg #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
+    notes:
+    
+  - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
+    title: "Dermographic Opacities"
+    authors: Sean Purcell # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    pub_abbr: Epoiesen # for type:essay
+    publication: Epoiesen # for type:essay
+    date: 2022
+    doi: https://epoiesen.carleton.ca/2022/01/10/dermographic-opacities/ # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    image: ./assets/img/Masthead1_Montgomery_TransactionsAmerican_1901_194.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
     notes:
     
   - type: conference
-    title: "A Conference Publication"
-    authors: Jane Doe
-    conference: A Conference # for type:conference
+    title: "Practicing Refusal in the History of Medicine: The Ethical Crisis of Studying Tuberculosis’ Visual Crisis"
+    authors: Sean Purcell
+    conference: Southern Association for the History of Medicine and Science Virtual Conference # for type:conference
     date: October 2024
-    notes: Upcoming
+    
+  - type: conference
+    title: "Opaque Interventions in the History of Medicine"
+    authors: Sean Purcell
+    conference: Johns Hopkins University’s Graduate Symposium on the Ethical Treatment of Human Remains # for type:conference
+    date: April 2024
+
+  - type: conference
+    title: "Digital Opacities: Remediating the History of Medicine"
+    authors: Sean Purcell
+    conference: Institute for Digital Arts and Humanities Spring Symposium # for type:conference
+    doi: https://scholarworks.iu.edu/dspace/items/81ef3104-c4ad-420c-ad1b-9515552d49e3 # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+    date: April 2024
+    
+  - type: conference
+    title: "Digital Opacities: Remediating the History of Medicine"
+    authors: Sean Purcell
+    conference: Center for Research on Race Ethnicity and Society Annual Symposium # for type:conference
+    date: March 2024
+    
+  - type: conference
+    title: "Gross me out!: Frameworks for Medical Knowledge Across Media"
+    authors: <b>Sean Purcell</b> (chair), Outi Hakola, Elyse Singer, and Caroline Jacobs
+    conference: Society for Cinema and Media Studies Annual Conference # for type:conference
+    date: March 2024
+    
+  - type: conference
+    title: "A Portrait of Tuberculosis (As a Young Microbe): Representing Consumption at the Turn of the Twentieth Century"
+    authors: Sean Purcell
+    conference: New York Academy of Medicine # for type:conference
+    date: December 2023
+    notes: Invited as part of the Audrey and William H. Helfand Fellowship
+    
+  - type: conference
+    title: "Making Opaque the Patient: Loss as Critical Methodology in the History of Medicine"
+    authors: Sean Purcell
+    conference: First Forum Conference # for type:conference
+    date: October 2023
+    
+  - type: conference
+    title: "Imaging Consumption: Photography and the Study of Tuberculosis 1882-1926"
+    authors: Sean Purcell
+    conference: Society for Cinema and Media Studies Annual Conference # for type:conference
+    date: April 2023
+    
+  - type: conference
+    title: "Tuberculous Imaginaries: Arts-Based Interventions in Medical Histories"
+    authors: Sean Purcell
+    conference: Global Digital Humanities Symposium # for type:conference
+    date: March 2023
+    
+  - type: conference
+    title: "The Philadelphia Consumptive: Zoning Tuberculosis in American Medical Research"
+    authors: Sean Purcell
+    conference: Media Fields Conference VII # for type:conference
+    date: November 2022
+    
+  - type: conference
+    title: "Tuberculous Imaginaries"
+    authors: Sean Purcell
+    conference: "Recovery and Community: Multiethnic Digital Humanities in 2022" # for type:conference
+    date: September 2022
+    notes: Featured Graduate Student Work
+    
+  - type: conference
+    title: "Terminal Imaginaries: Remediating Medicine's Visual Culture"
+    authors: Sean Purcell
+    conference: Society for Cinema and Media Studies Annual Conference # for type:conference
+    date: March 2022
+    
+  - type: conference
+    title: "Tuberculous Visions: Sanitaria Cultures and Clinical Imagination"
+    authors: Sean Purcell
+    conference: Common Ground Graduate Conference # for type:conference
+    date: March 2022
+    
+  - type: conference
+    title: "Toward an Opaque Museum: Reconsidering Spectacle in Biomedical Museums"
+    authors: Sean Purcell
+    conference: Media School Colloquium # for type:conference
+    date: September 2021
+    
+  - type: conference
+    title: "Remediating Medicine: Creative Historiographic Praxis and its Violence"
+    authors: Sean Purcell
+    conference: Common Ground Graduate Conference # for type:conference
+    date: April 2021
+    
+  - type: conference
+    title: "Dissecting Empire: A Materialist History of the Jigsaw Puzzle"
+    authors: Sean Purcell
+    conference: Society for Cinema and Media Studies Annual Conference # for type:conference
+    date: March 2021
+    notes: Paper originally accepted for the 2020 conference, which was cancelled due to Covid.
+    
+  - type: conference
+    title: "Jigsaw Undone: Retelling the History of an Enlightenment Plaything"
+    authors: Sean Purcell
+    conference: Common Ground Graduate Conference # for type:conference
+    date: March 2020
+    notes: "Winner: Best Paper"
+    
+  - type: conference
+    title: "Necro-Materialism: Dissected Puzzles and Colonial Empire"
+    authors: Sean Purcell
+    conference: Conversations around Materials for Interaction Symposium # for type:conference
+    date: February 2020
+
+  - type: conference
+    title: "Haptics, Skin and the Trouble of the Essentializing Touch"
+    authors: Sean Purcell
+    conference: Big 10 Graduate Conference # for type:conference
+    date: March 2019
+    
+  - type: conference
+    title: "Haptics, Skin and the Trouble of the Essentializing Touch"
+    authors: Sean Purcell
+    conference: Common Ground Graduate Conference # for type:conference
+    date: March 2019
+    
+  - type: conference
+    title: "Arbitrary Deaths: Tragedy in the Films of Jean-Luc Godard"
+    authors: Sean Purcell
+    conference: The Colorado Springs Undergraduate Research Forum # for type:conference
+    date: April 2013
     
   - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
     title: A Grant
