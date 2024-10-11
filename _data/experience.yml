@@ -28,7 +28,7 @@ main:
     years: April 2024 - Present
 
   - type: job # types include "education" for degree paths, "job" for past positions. 
-	title: Senior Digital Methods Specialist # for type.employment.
+    title: Senior Digital Methods Specialist # for type.employment.
 	institution: Indiana University
 	department: Institute for Digital Arts and Humanities
 	date: Fall 2021 - Spring 2023
