@@ -20,7 +20,6 @@ main:
     degreepath: BA in English Literature # for type.education.
     institution: University of Colorado Colorado Springs
     years: 2009 - 2013
-
     
   - type: job
     title: Digital Health Humanities Program Coordinator # for type.employment.
