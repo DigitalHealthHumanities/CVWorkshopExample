@@ -34,7 +34,7 @@ main:
     date: Fall 2021 - Spring 2023
 
   - type: job # types include "education" for degree paths, "job" for past positions. 
-	title: Associate Instructor # for type.employment.
+    title: Associate Instructor # for type.employment.
 	institution: Indiana University
 	department: The Media School
 	date: Fall 2017 - Fall 2019
