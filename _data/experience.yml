@@ -35,9 +35,9 @@ main:
 
   - type: job # types include "education" for degree paths, "job" for past positions. 
     title: Associate Instructor # for type.employment.
-	institution: Indiana University
-	department: The Media School
-	date: Fall 2017 - Fall 2019
+    institution: Indiana University
+    department: The Media School
+    date: Fall 2017 - Fall 2019
     
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions. 
