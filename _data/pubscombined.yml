@@ -1,4 +1,4 @@
-main: # You can enter in your items in a long list in this form. A few notes: they will not automatically be listed by time, so you will need to order it manually, with most recent at the top and least recent at the bottom.
+main:
 
   - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
     title: "Rendering in Analog Games: Dissected Puzzles and Georgian Death Cultures"
@@ -152,26 +152,151 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     date: April 2013
     
   - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
-    title: A Grant
+    title: Charlotte W. Newcombe Doctoral Dissertation Fellowship in Religion and Ethics
     date: 2024 - 2025
-    amount: $5 # for type:award, type:grant
     notes: Declined
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Media School Graduate Travel Award
+    date: Spring 2024
+    amount: $800 # for type:award, type:grant
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Institute for Digital Arts and Humanities Graduate Fellow
+    date: "Fall 2023 - Spring 2024"
+    amount: "$5000" # for type:award, type:grant
+
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Institute for Digital Arts and Humanities Incubator
+    date: Summer 2023
+    amount: $3000 # for type:award, type:grant
+    notes: For The Opaque Online Publishing Platform
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: IU Center for Research on Race and Ethnicity in Society Graduate Student Research Award
+    date: Spring 2023
+    amount: $1910 # for type:award, type:grant
+    notes: For The Opaque Online Publishing Platform
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: New York Academy of Medicine, Audrey and William H. Helfand Fellow in the History of Medicine and Public Health Fellowship 
+    date: 2023
+    amount: $5000 # for type:award, type:grant
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Kushman Memorial Fellowship
+    date: "Spring 2021, 2022"
+    amount: $2750 (total) # for type:award, type:grant
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: CAHI Graduate Award in Support of Research and Creative Activity
+    date: Fall 2020
+    amount: $1500 # for type:award, type:grant
+    notes: For Terminal Imaginaries
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: HASTAC Scholars Program
+    date: Fall 2020 - Spring 2021
+    amount: $500 # for type:award, type:grant
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Louise (Hess) Miller Scholarship
+    date: Spring 2020
+    amount: $2000 # for type:award, type:grant
+
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Pre-Dissertation Travel Grant
+    date: Summer 2019
+    institution: IU Global
+    amount: $2200 # for type:award, type:grant
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Frances M Williams Research Fellowship
+    date: Spring 2023
+    amount: $1910 # for type:award, type:grant
+    institution: The Strong Museum of Play
+    
+  - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: School of Film and Television Scholarship
+    date: 2013-2016
+    amount: "$12,000 (total)" # for type:award, type:grant
+    institution: Loyola Marymount University
 
   - type: award # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
-    title: Award Title
+    title: Graduate Student Essay Proze
     date: 2024
-    institution: Award Granting Institution # for type:award, type:grant
-    amount: # for type:award, type:grant
-    awardedfor: "A Conference Publication" # for type:award. This will let you write the specific project if applicable. Include '' for short work and <i></i> for books and films.
+    institution: Society for Cinema and Media Studies Media, Science and Technology Scholarly Interest Group # for type:award, type:grant
+    awardedfor: "Seeing Disease in Methyl Violet: Histochemistry and the Understanding of Tuberculosis (1882-1926)" # for type:award. This will let you write the specific project if applicable. Include '' for short work and <i></i> for books and films.
+
+  - type: award # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Best Media Object
+    date: Spring 2021
+    institution: Common Ground Graduate Conference # for type:award, type:grant
+    awardedfor: "Terminal Imaginaries" # for type:award. This will let you write the specific project if applicable. Include '' for short work and <i></i> for books and films.
+
+  - type: award # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Best Paper
+    date: Spring 2020
+    institution: Common Ground Graduate Conference # for type:award, type:grant
+    awardedfor: "Jigsaw Undone: Retelling the History of an Enlightenment Plaything" # for type:award. This will let you write the specific project if applicable. Include '' for short work and <i></i> for books and films.
+
+  - type: award # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Outstanding Alumni Award
+    date: Spring 2017
+    institution: University of Colorado Colorado Springs Student Short Film Festival # for type:award, type:grant
+
+  - type: award # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
+    title: Outstanding Student Award
+    date: Spring 2013
+    institution: "Visual Arts and Performing Arts Department (Film)" # for type:award, type:grant
 
   - type: art
-    title: <i>An Art Project</i>
+    title: <i>Tuberscopia</i>
+    authors: Sean Purcell
+    date: 2023
+    image: ./assets/img/Tuberscopia_DetailfromPhotoshop.jpg
+    displayed: Displayed at 2023 HASTAC Conference & 2023 Common Ground Graduate Conference
+    medium: Microscope Slides, Decal Stickers, Magnifying Glasses, Lightboard
+    
+  - type: art
+    title: <i>Tuberculous Imaginaries</i>
     authors: Sean Purcell
     date: 2022
     image: ./assets/img/TI_ProdStill1.png
-    displayed: Displayed at a gallery. 
-    medium: Made of specific materials.
+    displayed: Displayed at iFell Gallery in Bloomington, Indiana.
+    medium: Video with Three Projectors
+    
+  - type: art
+    title: <i>Terminal Imaginaries</i>
+    authors: Sean Purcell
+    date: 2021
+    displayed: Displayed at 2021 Common Ground Graduate Conference & The Institute for Digtial Arts and Humanities 2021 Spring Sumposium
+    medium: Video with Three Projectors
+    notes: "Winner: Best Media Object at 2021 Common Ground Graduate Conference"
+    
+  - type: art
+    title: <i>The Modern Orpheus</i>
+    authors: Sean Purcell
+    date: 2016
+    image: ./assets/img/Modorphzone3.jpg
+    displayed: Displayed at 2016 Los Angeles Cinefest; Bucharest Short Cut Film Festival, Fall 2016; Move Me Productions Belgium, Winter 2016; Woodengate Film Festival, 2017
+    medium: 7 Minute Short Film
+    notes: "Nominated for Best Experimental short at the Bucharest Short Cut Film Festival & Woodengate Film Festival."
         
+  - type: art
+    title: <i>The Vivisected Earth</i>
+    authors: Sean Purcell
+    date: 2016
+    medium: 15 Minute Short Film
+
+  - type: art
+    title: <i>Future Present Past</i>
+    authors: Sean Purcell
+    date: 2013
+    displayed: Displayed at 2013 UCCS Student Short Film Festival
+    medium: 10 Minute Short Film
+    notes: "Winner: Best Experimental Short Film at the 2013 UCCS Short Film Festival"
+    
 #  - type: # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
 #    title: 
 #    authors: 

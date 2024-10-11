@@ -38,6 +38,47 @@ main:
     department: The Media School
     date: Fall 2017 - Fall 2019
     
+  - type: job # types include "education" for degree paths, "job" for past positions. 
+    title: Visiting Lecturer # for type.employment.
+    institution: University of Colorado Colorado Springs
+    department: VAPA
+    date: Spring 2017
+    
+  - type: job # types include "education" for degree paths, "job" for past positions. 
+    title: Teacher's Assistant # for type.employment.
+    institution: Loyola Marymount University
+    date: Fall 2015 - Spring 2016
+    
+  - type: service # types include "education" for degree paths, "job" for past positions. 
+    title: Review Committee # for type.employment.
+    institution: Advancing Digital Health Humanities Institute
+    date: Summer 2024
+    
+  - type: service # types include "education" for degree paths, "job" for past positions. 
+    title: Review Committee # for type.employment.
+    institution: Indiana University HASTAC Scholars Program
+    date: 2021, 2022
+
+  - type: service # types include "education" for degree paths, "job" for past positions. 
+    title: Nomination Committee # for type.employment.
+    institution: Montage Student Film Showcase
+    date: Spring 2020
+    
+  - type: service # types include "education" for degree paths, "job" for past positions. 
+    title: Communications Chair # for type.employment.
+    institution: Media School Graduate Association
+    date: Fall 2019 - Spring 2020
+    
+  - type: service # types include "education" for degree paths, "job" for past positions. 
+    title: Conference Committee Member # for type.employment.
+    institution: Common Ground Conference
+    date: Spring 2019
+    
+  - type: service # types include "education" for degree paths, "job" for past positions. 
+    title: Ogranization Chair # for type.employment.
+    institution: Media School Graduate Association
+    date: Fall 2018 - Spring 2019
+    
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions. 
 #    degreepath: # for type.education.
