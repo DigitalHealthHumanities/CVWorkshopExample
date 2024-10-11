@@ -26,7 +26,7 @@ main:
     title: Digital Health Humanities Program Coordinator # for type.employment.
     institution: University of California San Franscisco
     years: April 2024 - Present
-	
+
   - type: job # types include "education" for degree paths, "job" for past positions. 
 	title: Senior Digital Methods Specialist # for type.employment.
 	institution: Indiana University
